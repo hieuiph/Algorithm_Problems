@@ -1,4 +1,6 @@
-Task. Your friend is making a text editor for programmers. He is currently working on a feature that will
+Problem:
+
+Your friend is making a text editor for programmers. He is currently working on a feature that will
 find errors in the usage of different types of brackets. Code can contain any brackets from the set
 []{}(), where the opening brackets are [,{, and ( and the closing brackets corresponding to them
 are ],}, and ).
